@@ -12,7 +12,7 @@
         "mode":"html OR text"
     },
     "embedSettings":{
-        "customColor":"#f8ab00 (or leave empty)",
+        "customColor":"#f8ab00",
         "listAllParticipants":false,
         "includeTicketStats":false
     },
