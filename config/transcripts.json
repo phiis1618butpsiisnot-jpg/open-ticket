@@ -16,17 +16,11 @@
         "listAllParticipants":false,
         "includeTicketStats":false
     },
-    "textTranscriptStyle":{
-        "layout":"simple OR normal OR detailed",
-        "includeStats":true,
-        "includeIds":false,
-        "includeEmbeds":true,
-        "includeFiles":true,
-        "includeBotMessages":true,
-
-        "fileMode":"custom OR channel-name OR channel-id OR user-name OR user-id",
-        "customFileName":"this-is-a-transcript (or leave empty)"
+    "textTranscriptStyle": {
+    "layout": "normal",
+    "fileMode": "custom"
     },
+
     "htmlTranscriptStyle":{
         "background":{
             "enableCustomBackground":false,
