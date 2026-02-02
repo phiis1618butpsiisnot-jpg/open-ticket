@@ -1,11 +1,15 @@
 [
     {
-        "id": "example-ticket",
-        "button": {
-            "label": "Open Ticket",
-            "emoji": "🎫",
-            "color": "green"
-        },
+        "id": "ticket-1",
+        "button": { "label": "Open Ticket", "emoji": "🎫", "color": "green" },
+        "ticketAdmins": [],
+        "category": "",
+        "logChannel": "",
+        "maxTicketsPerUser": 1
+    },
+    {
+        "id": "ticket-2",
+        "button": { "label": "Website", "emoji": "🌐", "color": "blue" },
         "ticketAdmins": [],
         "category": "",
         "logChannel": "",
